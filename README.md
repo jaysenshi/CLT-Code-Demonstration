@@ -7,7 +7,7 @@ In order for the central limit theorem to hold, we must be evaluating the mean o
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1. All variables in the sample must be independent of one another.  That is they can not correlate with or be dependent on one another in any way.      
 &nbsp;&nbsp;&nbsp;&nbsp; 2. All variables in the sample must be identically distributed.        
-&nbsp;&nbsp;&nbsp;&nbsp; 3. Are random sample must be sufficiently large.  To be more specific, as the size of our sample increases, we begin to see the effects of the Central Limit Theorem take hold more and more.
+&nbsp;&nbsp;&nbsp;&nbsp; 3. All random samples must be sufficiently large.  To be more specific, as the size of our sample increases, we begin to see the effects of the Central Limit Theorem take hold more and more.
         
 ## Results
 ![image](https://user-images.githubusercontent.com/63396651/137059587-cda3074c-e3fd-487f-aa28-ada426c68315.png)
