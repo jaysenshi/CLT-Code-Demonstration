@@ -4,8 +4,11 @@ The central limit theorem is one of the most essential and powerful theorems in 
 
 ## Conditions
 In order for the central limit theorem to hold, we must be evaluating the mean or the sum of a random sample. A random sample has two conditions.
+
 <space><space>*<space><space> All variables in the sample must be independent of one another.  That is they can not correlate with or be dependent on one another in any way.
+        
 <space><space>*<space><space> All variables in the sample must be identically distributed. 
+        
 <space><space>*<space><space> Are random sample must be sufficiently large.  To be more specific, as the size of our sample increases, we begin to see the effects of the Central Limit Theorem take hold more and more.
         
 ## Results
