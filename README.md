@@ -23,9 +23,11 @@ The central limit theorem states that as the size of our random sample increases
 ### 2.
 
 &nbsp;&nbsp;&nbsp;&nbsp;-The variance of the mean will approach the true population variance divided by the sample size, 
+
 &nbsp;&nbsp;&nbsp;&nbsp;*So the variance of the mean will decreased with increased sample size.*
 
 &nbsp;&nbsp;&nbsp;&nbsp;-The variance of the sum will approach the product of the true population variance and its sample size, 
+
 &nbsp;&nbsp;&nbsp;&nbsp;*So the variance of the sum will increase with increased sample size.*
 
 ### 3. 
