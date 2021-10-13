@@ -21,5 +21,5 @@ The central limit theorem states that as the size of our random sample increases
         3. The distribution of the mean and the sum will approach being normal. (having a bell curve shape)
 ## Demonstration
 ![image](https://user-images.githubusercontent.com/63396651/137059672-56001c2a-f847-4b63-9b35-2312683339b6.png)
-One interesting quality obout the central limit theorem is how distribution of the mean and sum will be normal regardless of how far away the distribution of the random variables in the original random sample were from being normal.
+One interesting quality about the central limit theorem is how distribution of the mean and sum will be normal regardless of how far away the distribution of the random variables in the original random sample were from being normal.
 In our coding demonstration, we will show how these three properties hold even when our random sample consists of random variables generated from distributions very different in nature from the normal distribution. These distributions include the Poisson, gamma, and exponential distribution.
