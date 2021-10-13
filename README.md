@@ -14,13 +14,13 @@ In order for the central limit theorem to hold, we must be evaluating the mean o
 
 The central limit theorem states that as the size of our random sample increases, the following properties will take hold:
 
-&nbsp;&nbsp;&nbsp;&nbsp;1. 
+&nbsp;&nbsp;&nbsp;&nbsp;### 1. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-The expected value of the mean will approach the true population mean.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-The expected value of the sum will approach the true population total.
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.
+&nbsp;&nbsp;&nbsp;&nbsp;### 2.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-The variance of the mean will approach the true population variance divided by the sample size, 
 
@@ -30,7 +30,8 @@ The central limit theorem states that as the size of our random sample increases
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*So the variance of the sum will increase with increased sample size.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;3. The distribution of the mean and the sum will approach being normal. (having a bell curve shape)
+&nbsp;&nbsp;&nbsp;&nbsp;### 3. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The distribution of the mean and the sum will approach being normal. (having a bell curve shape)
 
 ## Demonstration
 ![image](https://user-images.githubusercontent.com/63396651/137059672-56001c2a-f847-4b63-9b35-2312683339b6.png)
