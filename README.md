@@ -21,13 +21,13 @@ The central limit theorem states that as the size of our random sample increases
 
 ### 2.
 
-&nbsp;&nbsp;&nbsp;&nbsp;-The variance of the mean will approach the true population variance divided by the sample size, 
+&nbsp;&nbsp;&nbsp;&nbsp;-The variance of the mean will approach the true population variance divided by the sample size.
 
-&nbsp;&nbsp;&nbsp;&nbsp;*So the variance of the mean will decreased with increased sample size.*
+&nbsp;&nbsp;&nbsp;&nbsp;*Thus the variance of the mean will decrease with increased sample size.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;-The variance of the sum will approach the product of the true population variance and its sample size, 
+&nbsp;&nbsp;&nbsp;&nbsp;-The variance of the sum will approach the product of the true population variance and its sample size.
 
-&nbsp;&nbsp;&nbsp;&nbsp;*So the variance of the sum will increase with increased sample size.*
+&nbsp;&nbsp;&nbsp;&nbsp;*Thus the variance of the sum will increase with increased sample size.*
 
 ### 3. 
 
@@ -35,8 +35,8 @@ The central limit theorem states that as the size of our random sample increases
 
 ![image](https://user-images.githubusercontent.com/63396651/137059672-56001c2a-f847-4b63-9b35-2312683339b6.png)
 
-*One interesting quality obout the central limit theorem is how the distribution of the mean and sum will be normal regardless of how far away the distributions of  random variables in the original random sample were from being normal.* 
+*One interesting quality about the central limit theorem is how the distribution of the mean and sum of a random sample will be normal regardless of how far away the distributions of the random variables in the random sample were from being normal.* 
 
 ## Demonstration
 
-In our coding demonstration, we will show how these three properties hold even when our random sample consists of random variables generated from distributions very different in nature from the normal distribution. These distributions include the Poisson, gamma, and exponential distribution.  For these distributions, we will create a population, and generate random samples from those population.  We will then crete a sample of means of these samples.  From there we get the sample mean, sample variance, and distribution of the "sample of means".  We will then compare these results to the original population means, variances and distributions.
+In our coding demonstration, we will show how these three properties hold even when our random sample consists of random variables generated from distributions very different in nature from the normal distribution. These distributions include the Poisson, gamma, and exponential distribution.  For these distributions, we will create a population, and generate random samples from those population.  We will then crete a sample of means from these samples.  From there, we get the sample mean, sample variance, and distribution of the "sample of means".  We will then compare these results to the original population means, variances and distributions.
