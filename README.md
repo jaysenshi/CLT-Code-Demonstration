@@ -1,6 +1,22 @@
-The central limit theorem is one of the most essential and powerful theorems in statistics, serving as the basis for all statistical inference. Approximations of the central limit are fundamental for most elementary statistical study including confidence intervals, regression, and logistical analysis, and hypothesis testing. These techniques have been applied over the years in business applications and empirical studies. The central limit theorem tells us that with increasing sample size, 
-the mean of a random sample (a sample where all random variables in that sample are independently and identically distribute) will exhibit three properties:
-The expected value of the mean will approach the true population mean
-The variance of the mean will approach the true population variance divided by the sample size. Thus, the variance will decrease with an increased sample size.
-The distribution of the mean will approach being normal. (having a bell curve shape)
-Similar properties hold for the total value of the sample size. In our coding demonstration, we will show how these three properties hold even when our random sample consists of random variables generated from distributions very different in nature from the normal distribution. These distributions include the Poisson, gamma, and exponential distribution.
+# The Central Limit Theorem
+## Introduction
+The central limit theorem is one of the most essential and powerful theorems in statistics, serving as the basis for all statistical inference. Approximations of the central limit are fundamental for most elementary statistical study including confidence intervals, regression, and logistical analysis, and hypothesis testing. These techniques have been applied over the years in business applications and empirical studies. 
+
+## Conditions
+In order for the central limit theorem to hold, we must be evaluating the mean or the sum of a random sample. A random sample has two conditions.
+        1. All variables in the sample must be independent of one another.  That is they can not correlate with or be dependent on one another in any way.
+        2. All variables in the sample must be identically distributed. 
+        3. Are random sample must be sufficiently large.  To be more specific, as the size of our sample increases, we begin to see the effects of the Central Limit Theorem take hold more and more.
+        
+## Results
+![image](https://user-images.githubusercontent.com/63396651/137059587-cda3074c-e3fd-487f-aa28-ada426c68315.png)
+The central limit theorem states that as the size of our random sample increases.
+        1. The expected value of the mean will approach the true population mean.  The expected value of the sum will approach the true population total.
+        2.
+                -The variance of the mean will approach the true population variance divided by the sample size, meaning variance goes down with increased sample size. 
+                The variance of the sum will approach the product of the true population variance and its sample size, meaning the variance will go up with increased sample size
+        3. The distribution of the mean and the sum will approach being normal. (having a bell curve shape)
+## Demonstration
+![image](https://user-images.githubusercontent.com/63396651/137059672-56001c2a-f847-4b63-9b35-2312683339b6.png)
+One interesting quality obout the central limit theorem is how distribution of the mean and sum will be normal regardless of how far away the distribution of the random variables in the original random sample were from being normal.
+In our coding demonstration, we will show how these three properties hold even when our random sample consists of random variables generated from distributions very different in nature from the normal distribution. These distributions include the Poisson, gamma, and exponential distribution.
