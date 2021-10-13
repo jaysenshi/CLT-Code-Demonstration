@@ -1,9 +1,9 @@
 # The Central Limit Theorem
 ## Introduction
-The central limit theorem is one of the most essential and powerful theorems in statistics, serving as the basis for all statistical inference. Approximations of the central limit are fundamental for most elementary statistical study including confidence intervals, regression, and logistical analysis, and hypothesis testing. These techniques have been applied over the years in business applications and empirical studies. 
+The central limit theorem is one of the most essential and powerful theorems in statistics, serving as the basis for all statistical inference. Approximations of the central limit are fundamental for most elementary statistical study including confidence intervals, regression, and logistical analysis, and hypothesis testing. These techniques have been applied over the years in business applications and empirical studies.
 
 ## Conditions
-In order for the central limit theorem to hold, we must be evaluating the mean or the sum of a random sample that is substantially large. A random sample has two conditions.
+For the central limit theorem to hold, we must be evaluating the mean or the sum of a random sample that is substantially large. A random sample has two conditions.
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1. All variables in the sample must be independent of one another.      
 &nbsp;&nbsp;&nbsp;&nbsp; 2. All variables in the sample must be identically distributed.        
@@ -39,4 +39,4 @@ The central limit theorem states that as the size of our random sample increases
 
 ## Demonstration
 
-In our coding demonstration, we will show how these three properties hold even when our random sample consists of random variables generated from distributions very different in nature from the normal distribution. These distributions include the Poisson, gamma, and exponential distribution.  For these distributions, we will create a population, and generate random samples from those population.  We will then crete a sample of means from these samples.  From there, we get the sample mean, sample variance, and distribution of the "sample of means".  We will then compare these results to the original population means, variances and distributions.
+In our coding demonstration, we will show how these three properties hold even when our random sample consists of random variables generated from distributions very different in nature from the normal distribution. These distributions include the Poisson, gamma, and exponential distribution. For each distribution, we will create a population, and generate random samples from that population. We will then create a sample of means from these samples. From there, we get the sample mean, sample variance, and distribution of the "sample of means".  We will then compare these results to the original population mean, variance, and distribution.
