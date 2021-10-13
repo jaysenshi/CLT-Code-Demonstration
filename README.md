@@ -3,12 +3,11 @@
 The central limit theorem is one of the most essential and powerful theorems in statistics, serving as the basis for all statistical inference. Approximations of the central limit are fundamental for most elementary statistical study including confidence intervals, regression, and logistical analysis, and hypothesis testing. These techniques have been applied over the years in business applications and empirical studies. 
 
 ## Conditions
-In order for the central limit theorem to hold, we must be evaluating the mean or the sum of a random sample. A random sample has two conditions.
+In order for the central limit theorem to hold, we must be evaluating the mean or the sum of a random sample that is substantially large. A random sample has two conditions.
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1. All variables in the sample must be independent of one another.      
 &nbsp;&nbsp;&nbsp;&nbsp; 2. All variables in the sample must be identically distributed.        
-&nbsp;&nbsp;&nbsp;&nbsp; 3. The random sample must be sufficiently large.  
-        
+
 ## Results
 ![image](https://user-images.githubusercontent.com/63396651/137059587-cda3074c-e3fd-487f-aa28-ada426c68315.png)
 
