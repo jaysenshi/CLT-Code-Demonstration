@@ -10,6 +10,7 @@ In order for the central limit theorem to hold, we must be evaluating the mean o
         
 ## Results
 ![image](https://user-images.githubusercontent.com/63396651/137059587-cda3074c-e3fd-487f-aa28-ada426c68315.png)
+
 The central limit theorem states that as the size of our random sample increases.
         1. The expected value of the mean will approach the true population mean.  The expected value of the sum will approach the true population total.
         2.
