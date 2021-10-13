@@ -4,16 +4,16 @@ The central limit theorem is one of the most essential and powerful theorems in 
 
 ## Conditions
 In order for the central limit theorem to hold, we must be evaluating the mean or the sum of a random sample. A random sample has two conditions.
-        1. All variables in the sample must be independent of one another.  That is they can not correlate with or be dependent on one another in any way.
-        2. All variables in the sample must be identically distributed. 
-        3. Are random sample must be sufficiently large.  To be more specific, as the size of our sample increases, we begin to see the effects of the Central Limit Theorem take hold more and more.
+<space><space>*<space><space> All variables in the sample must be independent of one another.  That is they can not correlate with or be dependent on one another in any way.
+<space><space>*<space><space> All variables in the sample must be identically distributed. 
+<space><space>*<space><space> Are random sample must be sufficiently large.  To be more specific, as the size of our sample increases, we begin to see the effects of the Central Limit Theorem take hold more and more.
         
 ## Results
 ![image](https://user-images.githubusercontent.com/63396651/137059587-cda3074c-e3fd-487f-aa28-ada426c68315.png)
 
 The central limit theorem states that as the size of our random sample increases.
-        1. The expected value of the mean will approach the true population mean.  The expected value of the sum will approach the true population total.
-        2.
+<space><space>*<space><space>1. The expected value of the mean will approach the true population mean.  The expected value of the sum will approach the true population total.
+<space><space>*<space><space>2.
                 -The variance of the mean will approach the true population variance divided by the sample size, meaning variance goes down with increased sample size. 
                 The variance of the sum will approach the product of the true population variance and its sample size, meaning the variance will go up with increased sample size
         3. The distribution of the mean and the sum will approach being normal. (having a bell curve shape)
