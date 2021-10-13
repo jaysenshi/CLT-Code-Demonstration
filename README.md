@@ -1,6 +1,6 @@
 # The Central Limit Theorem
 ## Introduction
-The central limit theorem is one of the most essential and powerful theorems in statistics, serving as the basis for all statistical inference. Approximations of the central limit are fundamental for most elementary statistical study including confidence intervals, regression, and logistical analysis, and hypothesis testing. These techniques have been applied over the years in business applications and empirical studies. 
+The central limit theorem is one of the most essential and powerful theorems in statistics, serving as the basis for all statistical inference. Approximations of the central limit are fundamental for most elementary statistical study including confidence intervals, regression, logistical analysis, and hypothesis testing. These techniques have been applied over the years in business applications, empirical studies, and clinical trials. 
 
 ## Conditions
 In order for the central limit theorem to hold, we must be evaluating the mean or the sum of a random sample. A random sample has two conditions.
