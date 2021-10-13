@@ -1,0 +1,6 @@
+The central limit theorem is one of the most essential and powerful theorems in statistics, serving as the basis for all statistical inference. Approximations of the central limit are fundamental for most elementary statistical study including confidence intervals, regression, and logistical analysis, and hypothesis testing. These techniques have been applied over the years in business applications and empirical studies. The central limit theorem tells us that with increasing sample size, 
+the mean of a random sample (a sample where all random variables in that sample are independently and identically distribute) will exhibit three properties:
+The expected value of the mean will approach the true population mean
+The variance of the mean will approach the true population variance divided by the sample size. Thus, the variance will decrease with an increased sample size.
+The distribution of the mean will approach being normal. (having a bell curve shape)
+Similar properties hold for the total value of the sample size. In our coding demonstration, we will show how these three properties hold even when our random sample consists of random variables generated from distributions very different in nature from the normal distribution. These distributions include the Poisson, gamma, and exponential distribution.
